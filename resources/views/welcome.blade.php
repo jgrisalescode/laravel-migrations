@@ -84,7 +84,7 @@
 
         <div class="content">
             <div class="title m-b-md">
-                Migrations
+                Migrations 😎
             </div>
 
             <div class="links">
